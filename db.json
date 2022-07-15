@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aziz Alfauzi",
+      "alamat": "Bandung",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 2,
+      "name": "Erwin",
+      "alamat": "Bali",
+      "umur": 22,
+      "noHp": "082334"
+    },
+    {
+      "id": 3,
+      "name": "Zia",
+      "alamat": "Jakarta",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 4,
+      "name": "Ahmad",
+      "alamat": "Banten",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 5,
+      "name": "Kharis",
+      "alamat": "Kediri",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 6,
+      "name": "Nurul",
+      "alamat": "Surabaya",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 7,
+      "name": "Sania",
+      "alamat": "Jombang",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 8,
+      "name": "Bagus",
+      "alamat": "Palembang",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 9,
+      "name": "Miro",
+      "alamat": "Riau",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 10,
+      "name": "Rendy",
+      "alamat": "Pasuruan",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 11,
+      "name": "Alice",
+      "alamat": "Jakarta Selatan",
+      "umur": 24,
+      "noHp": "082334"
+    },
+    {
+      "id": 12,
+      "name": "Harun",
+      "alamat": "Malang",
+      "umur": 24,
+      "noHp": "082334"
+    }
+  ]
+}
